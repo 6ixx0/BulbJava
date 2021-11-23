@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+#btn1{
+    background-color: black;
+    color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+#btn2{
+    background-color: black;
+    color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+#btn1:hover{
+    color: orange;
+}
+
+#btn2:hover{
+    color: orange;
+}
+    
